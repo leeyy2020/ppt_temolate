@@ -1,0 +1,8 @@
+# Local dependencies
+ai-language-model-history/node_modules/
+
+# Validation and debug artifacts
+ai-language-model-history/rendered/
+ai-language-model-history/debug_pdf/
+ai-language-model-history/montage.png
+ai-language-model-history/dist/minimal.pptx
